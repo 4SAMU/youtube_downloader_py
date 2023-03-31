@@ -1,0 +1,5 @@
+#local folder where downloaded videos are stored
+videos
+
+#virtualenv
+youtube 
