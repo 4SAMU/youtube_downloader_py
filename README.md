@@ -54,14 +54,12 @@ if __name__ == '__main__':
 
 ## quick troubleshoot
 
-imports having error even after installing
+imports having error even after installing?
 
 `reload your code editor`
 
-in vscode
+in vscode:
 
 - `Ctrl+Shift+P`
 - type `Reload`
 - click `Developer: Reload Window`
-
-
