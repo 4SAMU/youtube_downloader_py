@@ -54,6 +54,12 @@ if __name__ == '__main__':
 
 ## quick troubleshoot
 
+### Upgrade Pytube
+
+```shell
+pip install --upgrade pytube
+```
+
 imports having error even after installing?
 
 `reload your code editor`
